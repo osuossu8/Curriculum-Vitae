@@ -18,15 +18,13 @@ _____
 スキル
 _____
 
-太字は業務経験有。
-
 言語
 
 ＃プログラミング言語
 
     ・Python
-    ・**JavaScript**
-    ・**C#**
+    ・JavaScript
+    ・C#
     ・Java
     ・SQL
     ・Julia
@@ -68,8 +66,8 @@ _____
 
     ・GCP
     ・Heroku
-    ・**SVN**
-    ・**Xamarin**
+    ・SVN
+    ・Xamarin
 
 _____
 
