@@ -11,7 +11,7 @@ _____
 | blog | https://kaeru-nantoka.hatenablog.com |
 | GitHub | https://github.com/osuossu8 |
 | Qiita | https://qiita.com/kaeru_nantoka |
-| Twitter | @kaeru_nantoka |
+| Twitter | https://twitter.com/kaeru_nantoka |
 
 _____
 
