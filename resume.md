@@ -25,8 +25,8 @@ _____
 ＃プログラミング言語
 
     ・Python
-    ・JavaScript
-    ・C#
+    ・**JavaScript**
+    ・**C#**
     ・Java
     ・SQL
     ・Julia
@@ -68,8 +68,8 @@ _____
 
     ・GCP
     ・Heroku
-    ・SVN
-    ・Xamarin
+    ・**SVN**
+    ・**Xamarin**
 
 _____
 
