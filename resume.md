@@ -12,6 +12,7 @@ _____
 | GitHub | https://github.com/osuossu8 |
 | Qiita | https://qiita.com/kaeru_nantoka |
 | Twitter | https://twitter.com/kaeru_nantoka |
+| work | https://line.me/R/ti/p/%40pcm4959u |
 
 _____
 
