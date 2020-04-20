@@ -104,8 +104,11 @@
 
 #### [2019.10~] [パワーポイントにスライド一枚単位でラベル付けをする機械学習バッチ作成](https://stockmark.co.jp/news/2020/01/20/3267/)
 
-  - 使用技術
-    - PyTorch, Tf-idf, BERT, fastText, AWS (RDS, Lambda, Batch), Xml
+  - 使用ツール
+    - PyTorch, AWS (RDS, Lambda, Batch), Xml
+
+  - 使用手法
+    - Tf-idf, fastText, BERT
 
   - 内容
     - パワーポイントから xml ベースのテキストを抽出し DB 保存
@@ -114,13 +117,19 @@
 
 #### 類似スライドレコメンドエンジンの作成
 
-  - 使用技術
+  - 使用ツール
+    - PyTroch
+
+  - 使用手法
     - ResNet50
 
 #### [2019.7~8] [法人向けニュースアプリケーションのユーザーレコメンド機能開発](https://www.slideshare.net/yuyaosujo/mlpp-4-amp-mlloft-6)
 
-  - 使用技術
-    - Django, fastText, K-means クラスタリング
+  - 使用ツール
+    - Django 
+
+  - 使用手法  
+    - fastText, K-means クラスタリング
 
   - 内容
     - 読んだ記事ベースでのユーザーベクトル作成
@@ -129,13 +138,15 @@
 
 #### [2019.7] スクレイピング記事の有料無料判定バッチ作成
 
-  - 使用技術 : Docker, Flask, EC2, LinearRegression
+  - 使用技術 : Docker, Flask, EC2
+  
+  - 使用手法 : LinearRegression
 
 
 #### [2019.5~6] 企業名抽出関連
 
-  - 使用技術
-    - BERT, Google 翻訳 API, fastText
+  - 使用手法
+    - fastText, BERT, Google 翻訳 API
 
   - 内容
     - ニュース記事から企業名を抽出し、社内の企業名リストを更新するアルゴリズムの開発
